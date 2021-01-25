@@ -1,0 +1,971 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the inclusive and fiducial tt production
+   cross-sections in the lepton plus jets channel in pp collisions at
+   √s=8 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB The inclusive and fiducial tt production cross sections are measured in the lepton+jets channel using 20.2 fb(-1) of proton proton collision data at a centre-of mass energy of 8 TeV recorded with the ATLAS detector at the LHC. Major systematic uncertainties due to the modelling of the jet energy scale and b-tagging efficiency are constrained by separating selected events into three disjoint regions. In order to reduce systematic uncertainties in the most important background, the W+jets process is modelled using Z+jets events in a data-driven approach. The inclusive tt cross-section is measured with a precision of 5.7% to be (sigma(inc) (tt) = 248.3 +/- 0.7 (stat.) +/- 13.4 (syst.) +/- 4.7 (lumi.) pb, assuming a top-quark mass of 172.5 GeV. The result is in agreement with the Standard Model prediction. The cross-section is also measured in a phase space close to that of the selected data. The fiducial cross-section is sigma(fid) (tt) = 48.8 +/- 0.1 (stat.) +/- 2.0 (syst.) +/- 0.9 (lumi.) pb with a precision of 4.5%.
+SN 1434-6044
+EI 1434-6052
+PD JUN 12
+PY 2018
+VL 78
+IS 6
+AR 487
+DI 10.1140/epjc/s10052-018-5904-z
+UT WOS:000435153700003
+PM 30956553
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the production cross section of three isolated photons in
+   pp collisions at √s=8 TeV using the ATLAS detector
+SO PHYSICS LETTERS B
+AB A measurement of the production of three isolated photons in proton-proton collisions at a centre-of-mass energy √s=8 TeV is reported. The results are based on an integrated luminosity of 20.2 fb(-1) collected with the ATLAS detector at the LHC. The differential cross sections are measured as functions of the transverse energy of each photon, the difference in azimuthal angle and in pseudorapidity between pairs of photons, the invariant mass of pairs of photons, and the invariant mass of the triphoton system. A measurement of the inclusive fiducial cross section is also reported. Next-to-leading-order perturbative QCD predictions are compared to the cross-section measurements. The predictions underestimate the measurement of the inclusive fiducial cross section and the differential measurements at low photon transverse energies and invariant masses. They provide adequate descriptions of the measurements at high values of the photon transverse energies, invariant mass of pairs of photons, and invariant mass of the triphoton system.
+SN 0370-2693
+EI 1873-2445
+PD JUN 10
+PY 2018
+VL 781
+BP 55
+EP 76
+DI 10.1016/j.physletb.2018.03.057
+UT WOS:000435653100007
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for W ' -> tb decays in the hadronic final state using pp
+   collisions at √s=13 TeV with the ATLAS detector
+SO PHYSICS LETTERS B
+AB A search for W'-boson production in the W' -> t (b) over bar -> q (q) over bar 'b (b) over bar decay channel is presented using 36.1 fb(-1) of 13 TeV proton-proton collision data collected by the ATLAS detector at the Large Hadron Collider in 2015 and 2016. The search is interpreted in terms of both a left-handed and a right-handed chiral W' boson within the mass range 1-5 TeV. Identification of the hadronically decaying top quark is performed using jet substructure tagging techniques based on a shower deconstruction algorithm. No significant deviation from the Standard Model prediction is observed and the results are expressed as upper limits on the W' -> t (b) over bar production cross-section times branching ratio as a function of the W'-boson mass. These limits exclude W' bosons with right-handed couplings with masses below 3.0 TeV and W' bosons with left-handed couplings with masses below 2.9 TeV, at the 95% confidence level.
+SN 0370-2693
+EI 1873-2445
+PD JUN 10
+PY 2018
+VL 781
+BP 327
+EP 348
+DI 10.1016/j.physletb.2018.03.036
+UT WOS:000435653100044
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for squarks and gluinos in final states with jets and missing
+   transverse momentum using 36 fb(-1) of √s=13 TeV pp collision data
+   with the ATLAS detector
+SO PHYSICAL REVIEW D
+AB A search for the supersymmetric partners of quarks and gluons (squarks and gluinos) in final states containing hadronic jets and missing transverse momentum, but no electrons or muons, is presented. The data used in this search were recorded in 2015 and 2016 by the ATLAS experiment in √s=13 TeV proton-proton collisions at the Large Hadron Collider, corresponding to an integrated luminosity of 36.1 fb(-1). The results are interpreted in the context of various models where squarks and gluinos are pair produced and the neutralino is the lightest supersymmetric particle. An exclusion limit at the 95% confidence level on the mass of the gluino is set at 2.03 TeV for a simplified model incorporating only a gluino and the lightest neutralino, assuming the lightest neutralino is massless. For a simplified model involving the strong production of mass-degenerate first-and second-generation squarks, squark masses below 1.55 TeVare excluded if the lightest neutralino is massless. These limits substantially extend the region of supersymmetric parameter space previously excluded by searches with the ATLAS detector.
+SN 1550-7998
+EI 1550-2368
+PD JUN 6
+PY 2018
+VL 97
+IS 11
+AR 112001
+DI 10.1103/PhysRevD.97.112001
+UT WOS:000434258100001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for long-lived charginos based on a disappearing-track signature
+   in pp collisions at √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB This paper presents a search for direct electroweak gaugino or gluino pair production with a chargino nearly mass-degenerate with a stable neutralino. It is based on an integrated luminosity of 36.1 fb(-1) of pp collisions at √s=13 TeV collected by the ATLAS experiment at the LHC. The final state of interest is a disappearing track accompanied by at least one jet with high transverse momentum from initial-state radiation or by four jets from the gluino decay chain. The use of short track segments reconstructed from the innermost tracking layers significantly improves the sensitivity to short chargino lifetimes. The results are found to be consistent with Standard Model predictions. Exclusion limits are set at 95% confidence level on the mass of charginos and gluinos for different chargino lifetimes. For a pure wino with a lifetime of about 0.2 ns, chargino masses up to 460 GeV are excluded. For the strong production channel, gluino masses up to 1.65 TeV are excluded assuming a chargino mass of 460 GeV and lifetime of 0.2 ns.
+SN 1029-8479
+PD JUN 5
+PY 2018
+IS 6
+AR 022
+DI 10.1007/JHEP06(2018)022
+UT WOS:000434412500002
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of inclusive jet and dijet cross-sections in proton-proton
+   collisions at √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB Inclusive jet and dijet cross-sections are measured in proton-proton collisions at a centre-of-mass energy of 13 TeV. The measurement uses a dataset with an integrated luminosity of 3.2 fb(-1) recorded in 2015 with the ATLAS detector at the Large Hadron Collider. Jets are identified using the anti-lit algorithm with a radius parameter value of R = 0.4. The inclusive jet cross-sections are measured double-differentially as a function of the jet transverse momentum, covering the range from 100 GeV to 3.5 TeV, and the absolute jet rapidity up to vertical bar y vertical bar = 3. The double-differential dijet production cross-sections are presented as a function of the dijet mass, covering the range from 300 GeV to 9 TeV, and the half absolute rapidity separation between the two leading jets within vertical bar y vertical bar < 3, y*, up to y* = 3. Next-to-leading-order, and next-to-next-to-leading-order for the inclusive jet measurement, perturbative QCD calculations corrected for non-perturbative and electroweak effects are compared to the measured cross-sections.
+SN 1029-8479
+PD MAY 30
+PY 2018
+IS 5
+AR 195
+DI 10.1007/JHEP05(2018)195
+UT WOS:000433979200001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for a new heavy gauge-boson resonance decaying into a lepton and
+   missing transverse momentum in 36 fb(-1) of pp collisions at √s=13 TeV
+   with the ATLAS experiment
+SO EUROPEAN PHYSICAL JOURNAL C
+AB The results of a search for new heavy W' bosons decaying to an electron or muon and a neutrino using proton-proton collision data at a centre-of-mass energy of √s=13 TeV are presented. The dataset was collected in 2015 and 2016 by the ATLAS experiment at the Large Hadron Collider and corresponds to an integrated luminosity of 36.1 fb(-1). As no excess of events above the Standard Model prediction is observed, the results are used to set upper limits on the W' boson cross-section times branching ratio to an electron or muon and a neutrino as a function of the W' mass. Assuming a W' boson with the same couplings as the Standard Model W boson, W' masses below 5.1 TeV are excluded at the 95% confidence level.
+SN 1434-6044
+EI 1434-6052
+PD MAY 22
+PY 2018
+VL 78
+IS 5
+AR 401
+DI 10.1140/epjc/s10052-018-5877-y
+UT WOS:000433513500006
+PM 30996666
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for photonic signatures of gauge-mediated supersymmetry in 13 TeV
+   pp collisions with the ATLAS detector
+SO PHYSICAL REVIEW D
+AB A search is presented for photonic signatures, motivated by generalized models of gauge-mediated supersymmetry breaking. This search makes use of proton-proton collision data at √s=13 TeV corresponding to an integrated luminosity of 36.1 fb(-1) recorded by the ATLAS detector at the LHC, and it explores models dominated by both strong and electroweak production of supersymmetric partner states. Experimental signatures incorporating an isolated photon and significant missing transverse momentum are explored. These signatures include events with an additional photon or additional jet activity not associated with any specific underlying quark flavor. No significant excess of events is observed above the Standard Model prediction, and 95% confidence-level upper limits of between 0.083 and 0.32 fb are set on the visible cross section of contributions from physics beyond the Standard Model. These results are interpreted in terms of lower limits on the masses of gluinos, squarks, and gauginos in the context of generalized models of gauge-mediated supersymmetry, which reach as high as 2.3 TeV for strongly produced and 1.3 TeV for weakly produced supersymmetric partner pairs.
+SN 1550-7998
+EI 1550-2368
+PD MAY 22
+PY 2018
+VL 97
+IS 9
+AR 092006
+DI 10.1103/PhysRevD.97.092006
+UT WOS:000433034600002
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for the Decay of the Higgs Boson to Charm Quarks with the ATLAS
+   Experiment
+SO PHYSICAL REVIEW LETTERS
+AB A direct search for the standard model Higgs boson decaying to a pair of charm quarks is presented. Associated production of the Higgs and Z bosons, in the decay mode ZH -> l(+)l(-) cc is studied. A data set with an integrated luminosity of 36.1 fb(-1) of pp collisions at √s=13 TeV recorded by the ATLAS experiment at the LHC is used. The H -> cc signature is identified using charm-tagging algorithms. The observed (expected) upper limit on sigma(pp -> ZH) x B(H -> cc) is 2.7 (3.9(-2.1)(+2.1) ) pb at the 95% confidence level for a Higgs boson mass of 125 GeV, while the standard model value is 26 fb.
+SN 0031-9007
+EI 1079-7114
+PD MAY 22
+PY 2018
+VL 120
+IS 21
+AR 211802
+DI 10.1103/PhysRevLett.120.211802
+UT WOS:000433039600006
+PM 29883151
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for a Structure in the B-s(0) pi(+/-) Invariant Mass Spectrum
+   with the ATLAS Experiment
+SO PHYSICAL REVIEW LETTERS
+AB A search for the narrow structure, X(5568), reported by the DO Collaboration in the decay sequence X -> B-s(0) pi +/-, B-s(0) -> J/psi phi, is presented. The analysis is based on a data sample recorded with the ATLAS detector at the LHC corresponding to 4.9 fb(-1) of pp collisions at 7 TeV and 19.5 fb(-1)at 8 TeV. No significant signal was found. Upper limits on the number of signal events, with properties corresponding to those reported by DO, and on the A production rate relative to B-s(0) mesons, rho x, were determined at 95% confidence level. The results are N(X) < 382 and rho x <0.015 for B-s(0) mesons with transverse momenta above 10 GeV and N(X) < 356 and rho(x) < 0.016 for transverse momenta above 15 GeV. Limits are also set for potential B-s(0) pi(+) resonances in the mass range 5550 to 5700 MeV.
+SN 0031-9007
+EI 1079-7114
+PD MAY 18
+PY 2018
+VL 120
+IS 20
+AR 202007
+DI 10.1103/PhysRevLett.120.202007
+UT WOS:000433032500008
+PM 29864314
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of differential cross sections and W+/W- cross-section
+   ratios for W boson production in association with jets at √s=8 TeV
+   with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB This paper presents a measurement of the W boson production cross section and the W+/W- cross-section ratio, both in association with jets, in proton-proton collisions at √s=8 TeV with the ATLAS experiment at the Large Hadron Collider. The measurement is performed in final states containing one electron and missing transverse momentum using data corresponding to an integrated luminosity of 20.2 fb(-1). Differential cross sections for events with at least one or two jets are presented for a range of observables, including jet transverse momenta and rapidities, the scalar sum of transverse momenta of the visible particles and the missing transverse momentum in the event, and the transverse momentum of the W boson. For a subset of the observables, the differential cross sections of positively and negatively charged W bosons are measured separately. In the cross-section ratio of W+/W- the dominant systematic uncertainties cancel out, improving the measurement precision by up to a factor of nine. The observables and ratios selected for this paper provide valuable input for the up quark, down quark, and gluon parton distribution functions of the proton.
+SN 1029-8479
+PD MAY 11
+PY 2018
+IS 5
+AR 077
+DI 10.1007/JHEP05(2018)077
+UT WOS:000432561800001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the production cross-section of a single top quark in
+   association with a Z boson in proton-proton collisions at 13 TeV with
+   the ATLAS detector
+SO PHYSICS LETTERS B
+AB The production of a top quark in association with a Z boson is investigated. The proton-proton collision data collected by the ATLAS experiment at the LHC in 2015 and 2016 at a centre-of-mass energy of √s=13 TeV are used, corresponding to an integrated luminosity of 36.1 fb(-1). Events containing three identified leptons (electrons and/or muons) and two jets, one of which is identified as a b-quark jet are selected. The major backgrounds are diboson, tt($)over-bar and Z + jets production. A neural network is used to improve the background rejection and extract the signal. The resulting significance is 4.2 sigma in the data and the expected significance is 5.4 sigma. The measured cross-section for tZq production is 600 +/- 170(stat.)+/- 140(syst.)fb.
+SN 0370-2693
+EI 1873-2445
+PD MAY 10
+PY 2018
+VL 780
+BP 557
+EP 577
+DI 10.1016/j.physletb.2018.03.023
+UT WOS:000432187800078
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the cross section for isolated-photon plus jet production
+   in pp collisions at √s=13 TeV using the ATLAS detector
+SO PHYSICS LETTERS B
+AB The dynamics of isolated-photon production in association with a jet in proton-proton collisions at a centre-of-mass energy of 13 TeV are studied with the ATLAS detector at the LHC using a dataset with an integrated luminosity of 3.2 fb(-1). Photons are required to have transverse energies above 125 GeV. Jets are identified using the anti-k(t) algorithm with radius parameter R = 0.4 and required to have transverse momenta above 100 GeV. Measurements of isolated-photon plus jet cross sections are presented as functions of the leading-photon transverse energy, the leading-jet transverse momentum, the azimuthal angular separation between the photon and the jet, the photon-jet invariant mass and the scattering angle in the photon-jet centre-of-mass system. Tree-level plus parton-shower predictions from SHERPA and PYTHIA as well as next-to-leading-order QCD predictions from JETPHOX and SHERPA are compared to the measurements.
+SN 0370-2693
+EI 1873-2445
+PD MAY 10
+PY 2018
+VL 780
+BP 578
+EP 602
+DI 10.1016/j.physletb.2018.03.035
+UT WOS:000432187800079
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for the standard model Higgs boson produced in association with
+   top quarks and decaying into a bb pair in pp collisions at
+   √s=13 TeV with the ATLAS detector
+SO PHYSICAL REVIEW D
+AB A search for the standard model Higgs boson produced in association with a top-quark pair, ttH, is presented. The analysis uses 36.1 fb(-1) of pp collision data at √s=13 TeV collected with the ATLAS detector at the Large Hadron Collider in 2015 and 2016. The search targets the H -> bb decay mode. The selected events contain either one or two electrons or muons from the top-quark decays, and are then categorized according to the number of jets and how likely these are to contain b-hadrons. Multivariate techniques are used to discriminate between signal and background events, the latter being dominated by ft + jets production. For a Higgs boson mass of 125 GeV, the ratio of the measured ttH signal cross-section to the standard model expectation is found to be mu = 0.84(-0.61)(+0.64). A value of mu greater than 2.0 is excluded at 95% confidence level (C.L.) while the expected upper limit is mu < 1.2 in the absence of a ttH signal.
+SN 1550-7998
+EI 1550-2368
+PD APR 30
+PY 2018
+VL 97
+IS 7
+AR 072016
+DI 10.1103/PhysRevD.97.072016
+UT WOS:000432959900001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for High-Mass Resonances Decaying to tau nu in pp Collisions at
+   √s=13 TeV with the ATLAS Detector
+SO PHYSICAL REVIEW LETTERS
+AB A search for high-mass resonances decaying to tau nu using proton-proton collisions at √s=13 TeV produced by the Large Hadron Collider is presented. Only tau-lepton decays with hadrons in the final state are considered. The data were recorded with the ATLAS detector and correspond to an integrated luminosity of 36.1 fb(-1). No statistically significant excess above the standard model expectation is observed; model-independent upper limits are set on the visible tau nu production cross section. Heavy W' bosons with masses less than 3.7 TeV in the sequential standard model and masses less than 2.2-3.8 TeV depending on the coupling in the nonuniversal Go(221) model are excluded at the 95% credibility level.
+SN 0031-9007
+EI 1079-7114
+PD APR 20
+PY 2018
+VL 120
+IS 16
+AR 161802
+DI 10.1103/PhysRevLett.120.161802
+UT WOS:000430465200002
+PM 29756910
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for heavy ZZ resonances in the l(+) l(-) l(+) l(-) and l(+) l(-)
+   nu(nu)over-bar final states using proton-proton collisions at s=13
+   TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB A search for heavy resonances decaying into a pair of Z bosons leading to l(+) l(-) l(+) l(-) and l(+) l(-) nu(nu) over bar final states, where l stands for either an electron or a muon, is presented. The search uses proton-proton collision data at a centre-of-mass energy of 13 TeV corresponding to an integrated luminosity of 36.1 fb(-1) collected with the ATLAS detector during 2015 and 2016 at the Large Hadron Collider. Different mass ranges for the hypothetical resonances are considered, depending on the final state and model. The different ranges span between 200 and 2000 GeV. The results are interpreted as upper limits on the production cross section of a spin-0 or spin-2 resonance. The upper limits for the spin-0 resonance are translated to exclusion contours in the context of Type-I and Type-II two-Higgs-doublet models, while those for the spin-2 resonance are used to constrain the Randall-Sundrum model with an extra dimension giving rise to spin-2 graviton excitations.
+SN 1434-6044
+EI 1434-6052
+PD APR 11
+PY 2018
+VL 78
+IS 4
+AR 293
+DI 10.1140/epjc/s10052-018-5686-3
+UT WOS:000430139000003
+PM 31009022
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI A search for resonances decaying into a Higgs boson and a new particle X
+   in the XH -> qqbb final state with the ATLAS detector
+SO PHYSICS LETTERS B
+AB A search for heavy resonances decaying into a Higgs boson (H) and a new particle (X) is reported, utilizing 36.1 fb(-1) of proton-proton collision data at √s=13 TeV collected during 2015 and 2016 with the ATLAS detector at the CERN Large Hadron Collider. The particle Xis assumed to decay to a pair of light quarks, and the fully hadronic final state XH -> q (q) over bar 'b (b) over bar is analysed. The search considers the regime of high XH resonance masses, where the X and H bosons are both highly Lorentz-boosted and are each reconstructed using a single jet with large radius parameter. A two-dimensional phase space of XH mass versus X mass is scanned for evidence of a signal, over a range of XH resonance mass values between 1 TeV and 4 TeV, and for X particles with masses from 50 GeV to 1000 GeV. All search results are consistent with the expectations for the background due to Standard Model processes, and 95% CL upper limits are set, as a function of XH and X masses, on the production cross-section of the XH -> q (q) over bar 'b (b) over bar resonance.
+SN 0370-2693
+EI 1873-2445
+PD APR 10
+PY 2018
+VL 779
+BP 24
+EP 45
+DI 10.1016/j.physletb.2018.01.042
+UT WOS:000429098900004
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+   ATLAS Collaboration
+   CMS Collaboration
+TI Combination of inclusive and differential t(t)over-bar charge asymmetry
+   measurements using ATLAS and CMS data at √s=7 and 8 TeV
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB This paper presents combinations of inclusive and differential measurements of the charge asymmetry (A(C)) in top quark pair (t(t)over-bar) events with a lepton+jets signature by the ATLAS and CMS Collaborations, using data from LHC proton-proton collisions at centre-of-mass energies of 7 and 8 TeV. The data correspond to integrated luminosities of about 5 and 20 fb(-1) for each experiment, respectively. The resulting combined LHC measurements of the inclusive charge asymmetry are A(C)(LHC7) = 0.005 +/- 0.007 (stat) +/- 0.006 (syst) at 7 TeV and A(C)(LHC8) = 0.0055 +/- 0.0023 (stat) +/- 0.0025 (syst) at 8 TeV. These values, as well as the combination of A(C) measurements as a function of the invariant mass of the t(t)over-bar system at 8 TeV, are consistent with the respective standard model predictions.
+SN 1029-8479
+PD APR 9
+PY 2018
+IS 4
+AR 033
+DI 10.1007/JHEP04(2018)033
+UT WOS:000432038500001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Evidence for the associated production of the Higgs boson and a top
+   quark pair with the ATLAS detector
+SO PHYSICAL REVIEW D
+AB A search for the associated production of the Higgs boson with a top quark pair (tt (b) over barH) is reported. The search is performed in multilepton final states using a data set corresponding to an integrated luminosity of 36.1 fb(-1) of proton-proton collision data recorded by the ATLAS experiment at a center-of-mass energy √s=13 TeV at the Large Hadron Collider. Higgs boson decays to WW*, tau tau, and ZZ* are targeted. Seven final states, categorized by the number and flavor of charged-lepton candidates, are examined for the presence of the Standard Model Higgs boson with a mass of 125 GeVand a pair of top quarks. An excess of events over the expected background from Standard Model processes is found with an observed significance of 4.1 standard deviations, compared to an expectation of 2.8 standard deviations. The best fit for the (tt (b) over barH) production cross section is sot (tt (b) over barH) = 790(-210)(+230) fb, in agreement with the Standard Model prediction of 507(-50)(+35) fb. The combination of this result with other tt (b) over barH searches from the ATLAS experiment using the Higgs boson decay modes to b (b) over bar, gamma gamma and ZZ* -> 4l, has an observed significance of 4.2 standard deviations, compared to an expectation of 3.8 standard deviations. This provides evidence for the tt (b) over barH production mode.
+SN 1550-7998
+EI 1550-2368
+PD APR 9
+PY 2018
+VL 97
+IS 7
+AR 072003
+DI 10.1103/PhysRevD.97.072003
+UT WOS:000429456900001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for heavy resonances decaying into a W or Z boson and a Higgs
+   boson in final states with leptons and b-jets in 36 fb(-1) of √s=13
+   TeV pp collisions with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB A search is conducted for new resonances decaying into a W or Z boson and a 125 GeV Higgs boson in the nu(nu) over barb (b) over bar, l(+/-)nu b (b) over bar, and l(+)l(-)b (b) over bar final states, where l(+/-) = e(+/-) or mu(+/-), in pp collisions at √s=13 TeV. The data used correspond to a total integrated luminosity of 36.1 fb(-1) collected with the ATLAS detector at the Large Hadron Collider during the 2015 and 2016 data-taking periods. The search is conducted by examining the reconstructed invariant or transverse mass distributions of Wh and Zh candidates for evidence of a localised excess in the mass range of 220 GeV up to 5 TeV. No significant excess is observed and the results are interpreted in terms of constraints on the production cross-section times branching fraction of heavy W' and Z' resonances in heavy-vector-triplet models and the CP-odd scalar boson A in two-Higgs-doublet models. Upper limits are placed at the 95% confidence level and range between 9.0 x 10(-4) pb and 7.3 x 10(-1) pb depending on the model and mass of the resonance.
+SN 1029-8479
+PD MAR 28
+PY 2018
+IS 3
+AR 174
+DI 10.1007/JHEP03(2018)174
+UT WOS:000430566700001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for long-lived, massive particles in events with displaced
+   vertices and missing transverse momentum in √s=13 TeV pp collisions
+   with the ATLAS detector
+SO PHYSICAL REVIEW D
+AB A search for long-lived, massive particles predicted by many theories beyond the Standard Model is presented. The search targets final states with large missing transverse momentum and at least one highmass displaced vertex with five or more tracks, and uses 32.8 fb(-1) of √s=13 TeV pp collision data collected by the ATLAS detector at the LHC. The observed yield is consistent with the expected background. The results are used to extract 95% C.L. exclusion limits on the production of long-lived gluinos with masses up to 2.37 TeV and lifetimes of O(10(-2)) - O(10) ns in a simplified model inspired by split supersymmetry.
+SN 1550-7998
+EI 1550-2368
+PD MAR 28
+PY 2018
+VL 97
+IS 5
+AR 052012
+DI 10.1103/PhysRevD.97.052012
+UT WOS:000428505700002
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for electroweak production of supersymmetric states in scenarios
+   with compressed mass spectra at √s=13 TeV with the ATLAS detector
+SO PHYSICAL REVIEW D
+AB A search for electroweak production of supersymmetric particles in scenarios with compressed mass spectra in final states with two low-momentum leptons and missing transverse momentum is presented. This search uses proton-proton collision data recorded by the ATLAS detector at the Large Hadron Collider in 2015-2016, corresponding to 36.1 tb(-1) of integrated luminosity at √s=13 TeV. Events with same flavor pairs of electrons or muons with opposite electric charge are selected. The data are found to be consistent with the Standard Model prediction. Results are interpreted using simplified models of R-parity conserving supersymmetry in which there is a small mass difference between the masses of the produced supersymmetric particles and the lightest neutralino. Exclusion limits at 95% confidence level are set on next-to-lightest neutralino masses of up to 145 GeV for Higgsino production and 175 GeV for wino production, and slepton masses of up to 190 GeV for pair production of sleptons. In the compressed mass regime, the exclusion limits extend down to mass splittings of 2.5 GeV for Higgsino production, 2 GeV for wino production, and 1 GeV for slepton production. The results are also interpreted in the context of a radiatively-driven natural supersymmetry model with nonuniversal Higgs boson masses.
+SN 1550-7998
+EI 1550-2368
+PD MAR 27
+PY 2018
+VL 97
+IS 5
+AR 052010
+DI 10.1103/PhysRevD.97.052010
+UT WOS:000428390100001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI A search for pair-produced resonances in four-jet final states at
+   √s=13 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB A search for massive coloured resonances which are pair-produced and decay into two jets is presented. The analysis uses 36.7 fb(-1) of √s=13 TeV pp collision data recorded by the ATLAS experiment at the LHC in 2015 and 2016. No significant deviation from the background prediction is observed. Results are interpreted in a SUSY simplified model where the lightest supersymmetric particle is the top squark, (t), which decays promptly into two quarks through R-parity-violating couplings. Top squarks with masses in the range 100 GeV < m(t) < 410 GeV are excluded at 95% confidence level. If the decay is into a b-quark and a light quark, a dedicated selection requiring two b-tags is used to exclude masses in the ranges 100 GeV < m((t) over tilde) < 470 GeV and 480 GeV < m(t) < 610 GeV. Additional limits are set on the pair-production of massive colour-octet resonances.
+SN 1434-6044
+EI 1434-6052
+PD MAR 22
+PY 2018
+VL 78
+IS 3
+AR 250
+DI 10.1140/epjc/s10052-018-5693-4
+UT WOS:000428180600005
+PM 30996658
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the Higgs boson coupling properties in the H -> ZZ* -> 4l
+   decay channel at √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB The coupling properties of the Higgs boson are studied in the four-lepton (e, mu) decay channel using 36.1 fb(-1) of pp collision data from the LHC at a centre-of-mass energy of 13 TeV collected by the ATLAS detector. Cross sections are measured for the main production modes in several exclusive regions of the Higgs boson production phase space and are interpreted in terms of coupling modifiers. The inclusive cross section times branching ratio for H -> ZZ* decay and for a Higgs boson absolute rapidity below 2.5 is measured to be 1.73(-0.23)(+0.24)(stat.)(-0.08)(+0.10)(exp.)+/- 0.04(th.) pb compared to the Standard Model prediction of 1.34 +/- 0.09 pb. In addition, the tensor structure. of the Higgs boson couplings is studied using an effective Lagrangian approach for the description of interactions beyond the Standard Model. Constraints are placed on the non-Standard-Model CP-even and CP-odd couplings to Z bosons and on the CP-odd coupling to gluons.
+SN 1029-8479
+PD MAR 15
+PY 2018
+IS 3
+AR 095
+DI 10.1007/JHEP03(2018)095
+UT WOS:000428792500007
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for doubly charged Higgs boson production in multi-lepton final
+   states with the ATLAS detector using proton-proton collisions at
+   √s=13 TeV
+SO EUROPEAN PHYSICAL JOURNAL C
+AB A search for doubly charged Higgs bosons with pairs of prompt, isolated, highly energetic leptons with the same electric charge is presented. The search uses a proton-proton collision data sample at a centre-of-mass energy of 13 TeV corresponding to 36.1 fb(-1) of integrated luminosity recorded in 2015 and 2016 by the ATLAS detector at the LHC. This analysis focuses on the decays H-+/-+/- -> e(+/-)e(+/-), H-+/-+/- -> e(+/-)mu(+/-) and H-+/-+/- -> mu(+/-)mu(+/-), fitting the dilepton mass spectra in several exclusive signal regions. No significant evidence of a signal is observed and corresponding limits on the production cross-section and consequently a lower limit on m(H-+/-+/-) are derived at 95% confidence level. With l(+/-)l(+/-) = e(+/-)e(+/-)/mu(+/-)mu(+/-)/e(+/-)mu(+/-), the observed lower limit on the mass of a doubly charged Higgs boson only coupling to left-handed leptons varies from 770 to 870GeV (850GeV expected) for B(H-+/-+/- -> l(+/-)l(+/-)) = 100% and both the expected and observed mass limits are above 450GeV for B(H-+/-+/- -> l(+/-)l(+/-)) = 10% and any combination of partial branching ratios.
+SN 1434-6044
+EI 1434-6052
+PD MAR 10
+PY 2018
+VL 78
+IS 3
+AR 199
+DI 10.1140/epjc/s10052-018-5661-z
+UT WOS:000427620000001
+PM 31265007
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for WW/WZ resonance production in lvqq final states in pp
+   collisions at √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB A search is conducted for new resonances decaying into a WW or WZ boson pair, where one W boson decays leptonically and the other W or Z boson decays hadronically. It is based on proton-proton collision data with an integrated luminosity of 36.1 fb(-1) collected with the ATLAS detector at the Large Hadron Collider at a centre-of-mass energy of √s=13 TeV in 2015 and 2016. The search is sensitive to diboson resonance production via vector-boson fusion as well as quark-antiquark annihilation and gluon-gluon fusion mechanisms. No significant excess of events is observed with respect to the Standard Model backgrounds. Several benchmark models are used to interpret the results. Limits on the production cross section are set for a new narrow scalar resonance, a new heavy vector-boson and a spin-2 Kaluza-Klein graviton.
+SN 1029-8479
+PD MAR 8
+PY 2018
+IS 3
+AR 042
+DI 10.1007/JHEP03(2018)042
+UT WOS:000427543500001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of differential cross-sections of a single top quark
+   produced in association with a W boson at √s=13 TeV with ATLAS
+SO EUROPEAN PHYSICAL JOURNAL C
+AB The differential cross-section for the production of a W boson in association with a top quark is measured for several particle-level observables. The measurements are performed using 36.1 fb(-1) of pp collision data collected with the ATLAS detector at the LHC in 2015 and 2016. Differential cross-sections are measured in a fiducial phase space defined by the presence of two charged leptons and exactly one jet matched to a b-hadron, and are normalised with the fiducial cross-section. Results are found to be in good agreement with predictions from several Monte Carlo event generators.
+SN 1434-6044
+EI 1434-6052
+PD MAR 6
+PY 2018
+VL 78
+IS 3
+AR 186
+DI 10.1140/epjc/s10052-018-5649-8
+UT WOS:000426840100001
+PM 31264996
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Searches for heavy ZZ and ZW resonances in the llqq and vvqq final
+   states in pp collisions at √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB This paper reports searches for heavy resonances decaying into ZZ or ZW using data from proton-proton collisions at a centre-of-mass energy of √s=13 TeV. The data, corresponding to an integrated luminosity of 36.1 fb(-1), were recorded with the ATLAS detector in 2015 and 2016 at the Large Hadron Collider. The searches are performed in final states in which one Z boson decays into either a pair of light charged leptons (electrons and muons) or a pair of neutrinos, and the associated W boson or the other Z boson decays hadronically. No evidence of the production of heavy resonances is observed. Upper bounds on the production cross sections of heavy resonances times their decay branching ratios to ZZ or ZW are derived in the mass range 300-5000 GeV within the context of Standard Model extensions with additional Higgs bosons, a heavy vector triplet or warped extra dimensions. Production through gluon-gluon fusion, Drell-Yan or vector-boson fusion are considered, depending on the assumed model.
+SN 1029-8479
+PD MAR 5
+PY 2018
+IS 3
+AR 009
+DI 10.1007/JHEP03(2018)009
+UT WOS:000426797300009
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of quarkonium production in proton-lead and proton-proton
+   collisions at 5.02 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB The modification of the production of J/psi, psi(2S), and gamma (nS) (n = 1, 2, 3) in p+Pb collisions with respect to their production in pp collisions has been studied. The p+Pb and pp datasets used in this paper correspond to integrated luminosities of 28 nb(-1) and 25 pb(-1) respectively, collected in 2013 and 2015 by the ATLAS detector at the LHC, both at a centre-of-mass energy per nucleon pair of 5.02 TeV. The quarkonium states are reconstructed in the dimuon decay channel. The yields of J/psi and psi(2S) are separated into prompt and non-prompt sources. The measured quarkonium differential cross sections are presented as a function of rapidity and transverse momentum, as is the nuclear modification factor, R-pPb for J/psi and psi (nS). No significant modification of the J/psi production is observed while gamma (nS) production is found to be suppressed at low transverse momentum in p+Pb collisions relative to pp collisions. The production of excited charmonium and bottomonium states is found to be suppressed relative to that of the ground states in central p+Pb collisions.
+SN 1434-6044
+EI 1434-6052
+PD FEB 28
+PY 2018
+VL 78
+IS 3
+AR 171
+DI 10.1140/epjc/s10052-018-5624-4
+UT WOS:000426836000001
+PM 31265000
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of tau polarisation in Z/gamma* -> tau tau decays in
+   proton-proton collisions at √s=8 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB This paper presents a measurement of the polarisation of tau leptons produced in Z/gamma* -> tau tau decays which is performed with a dataset of proton-proton collisions at √s=8 TeV, corresponding to an integrated luminosity of 20.2 fb(-1) recorded with the ATLAS detector at the LHC in 2012. The Z/gamma* -> tau tau decays are reconstructed from a hadronically decaying tau lepton with a single charged particle in the final state, accompanied by a tau lepton that decays leptonically. The tau polarisation is inferred from the relative fraction of energy carried by charged and neutral hadrons in the hadronic tau decays. The polarisation is measured in a fiducial region that corresponds to the kinematic region accessible to this analysis. The tau polarisation extracted over the full phase space within the Z/gamma* mass range of 66 < mZ/gamma* < 116GeVis found to be P-tau = -0.14 +/- 0.02(stat)+/- 0.04(syst). It is in agreement with the Standard Model prediction of Pt = -0.1517 +/- 0.0019, which is obtained from the ALP-GEN event generator interfaced with the PYTHIA 6 parton shower modelling and the TAUOLA tau decay library.
+SN 1434-6044
+EI 1434-6052
+PD FEB 24
+PY 2018
+VL 78
+IS 2
+AR 163
+DI 10.1140/epjc/s10052-018-5619-1
+UT WOS:000426484600001
+PM 31265004
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for the direct production of charginos and neutralinos in final
+   states with tau leptons in √s=13 TeV pp collisions with the ATLAS
+   detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB A search for the direct production of charginos and neutralinos in final states with at least two hadronically decaying tau leptons is presented. The analysis uses a dataset of pp collisions corresponding to an integrated luminosity of 36.1 fb, recorded with the ATLAS detector at the Large Hadron Collider at a centre-of-mass energy of 13 TeV. No significant deviation from the expected Standard Model background is observed. Limits are derived in scenarios of pair production and of and production in simplified models where the neutralinos and charginos decay solely via intermediate left-handed staus and tau sneutrinos, and the mass of the state is set to be halfway between the masses of the and the (chi) over tilde (0.)(1) . Chargino masses up to 630 GeV are excluded at 95% confidence level in the scenario of direct production of for a massless (chi) over tilde (0.)(1). Common and masses up to 760 GeV are excluded in the case of production of and assuming a massless . Exclusion limits for additional benchmark scenarios with large and small mass-splitting between the and the are also studied by varying the mass between the masses of the and the (chi) over tilde (0.)(1)
+SN 1434-6044
+EI 1434-6052
+PD FEB 22
+PY 2018
+VL 78
+IS 2
+AR 154
+DI 10.1140/epjc/s10052-018-5583-9
+UT WOS:000426403300001
+PM 31264997
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of longitudinal flow decorrelations in Pb plus Pb collisions
+   at √s(NN)=2.76 and 5.02 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB Measurements of longitudinal flow correlations are presented for charged particles in the pseudorapidity range vertical bar eta vertical bar < 2.4 using 7 mu b(-1) and 470 mu b(-1) of Pb+Pb collisions at √s(NN)=2.76 and 5.02 TeV, respectively, recorded by the ATLAS detector at the LHC. It is found that the correlation between the harmonic flow coefficients v(n) measured in two separated eta intervals does not factorise into the product of single-particle coefficients, and this breaking of factorisation, or flow decorrelation, increases linearly with the eta separation between the intervals. The flow decorrelation is stronger at 2.76 TeVthan at 5.02 TeV. Higher-order moments of the correlations are also measured, and the corresponding linear coefficients for the kth-moment of the v(n) are found to be proportional to k for v(3), but not for v(2). The decorrelation effect is separated into contributions from the magnitude of v(n) and the event-plane orientation, each as a function of eta. These two contributions are found to be comparable. The longitudinal flow correlations are also measured between v(n) of different order in n. The decorrelations of v(2) and v(3) are found to be independent of each other, while the decorrelations of v(4) and v(5) are found to be driven by the nonlinear contribution from v(2)(2) and v(2)v(3), respectively.
+SN 1434-6044
+EI 1434-6052
+PD FEB 19
+PY 2018
+VL 78
+IS 2
+AR 142
+DI 10.1140/epjc/s10052-018-5605-7
+UT WOS:000425395800005
+PM 31265002
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Direct top-quark decay width measurement in the t(t)over-bar lepton plus
+   jets channel at √s=8 TeV with the ATLAS experiment
+SO EUROPEAN PHYSICAL JOURNAL C
+AB This paper presents a direct measurement of the decay width of the top quark using t (t) over bar events in the lepton+jets final state. The data sample was collected by the ATLAS detector at the LHC in proton-proton collisions at a centre-of-mass energy of 8 TeV and corresponds to an integrated luminosity of 20.2 fb(-1). The decay width of the top quark is measured using a template fit to distributions of kinematic observables associated with the hadronically and semileptonically decaying top quarks. The result, Gamma(t) = 1.76 +/- 0.33 (stat.) (+0.79)(-0.68) (syst.) GeV for a top-quark mass of 172.5 GeV, is consistent with the prediction of the Standard Model.
+SN 1434-6044
+EI 1434-6052
+PD FEB 15
+PY 2018
+VL 78
+IS 2
+AR 129
+DI 10.1140/epjc/s10052-018-5595-5
+UT WOS:000425393800001
+PM 31265010
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of long-range multiparticle azimuthal correlations with the
+   subevent cumulant method in pp and p plus Pb collisions with the ATLAS
+   detector at the CERN Large Hadron Collider
+SO PHYSICAL REVIEW C
+AB A detailed study of multiparticle azimuthal correlations is presented using pp data at √s=5.02 and 13 TeV, and p+Pb data at √s(NN)=5.02 TeV, recorded with the ATLAS detector at the CERN Large Hadron Collider. The azimuthal correlations are probed using four-particle cumulants c(n){4} and flow coefficients v(n){4} = (-c(n){4})(1/4) for n = 2 and 3, with the goal of extracting long-range multiparticle azimuthal correlation signals and suppressing the short-range correlations. The values of c(n){4} are obtained as a function of the average number of charged particles per event, < N-ch >, using the recently proposed two-subevent and three-subevent cumulant methods, and compared with results obtained with the standard cumulant method. The standard method is found to be strongly biased by short-range correlations, which originate mostly from jetswith a positive contribution to c(n){4}. The threesubevent method, on the other hand, is found to be least sensitive to short-range correlations. The three-subevent method gives a negative c(2){4}, and therefore a well-defined v(2){4}, nearly independent of < N-ch >, which implies that the long-range multiparticle azimuthal correlations persist to events with low multiplicity. Furthermore, v(2){4} is found to be smaller than the v(2){2} measured using the two-particle correlation method, as expected for long-range collective behavior. Finally, the measured values of v(2){4} and v(2){2} are used to estimate the number of sources relevant for the initial eccentricity in the collision geometry. The results based on the subevent cumulant technique provide direct evidence, in small collision systems, for a long-range collectivity involving many particles distributed across a broad rapidity interval.
+SN 0556-2813
+EI 1089-490X
+PD FEB 12
+PY 2018
+VL 97
+IS 2
+AR 024904
+DI 10.1103/PhysRevC.97.024904
+UT WOS:000424747000006
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for diboson resonances with boson-tagged jets in pp collisions at
+   √s=13 TeV with the ATLAS detector
+SO PHYSICS LETTERS B
+AB Narrow resonances decaying into WW, WZ or ZZ boson pairs are searched for in 36.7 fb(-1) of proton-proton collision data at a centre-of-mass energy of √s=13 TeV recorded with the ATLAS detector at the Large Hadron Collider in 2015 and 2016. The diboson system is reconstructed using pairs of large-radius jets with high transverse momentum and tagged as compatible with the hadronic decay of high-momentum Wor Zbosons, using jet mass and substructure properties. The search is sensitive to diboson resonances with masses in the range 1.2-5.0 TeV. No significant excess is observed in any signal region. Exclusion limits are set at the 95% confidence level on the production cross section times branching ratio to dibosons for a range of theories beyond the Standard Model. Model-dependent lower limits on the mass of new gauge bosons are set, with the highest limit set at 3.5 TeV in the context of mass-degenerate resonances that couple predominantly to bosons.
+SN 0370-2693
+EI 1873-2445
+PD FEB 10
+PY 2018
+VL 777
+BP 91
+EP 113
+DI 10.1016/j.physletb.2017.12.011
+UT WOS:000423930700010
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the exclusive gamma gamma -> mu(+)mu(-) process in
+   proton-proton collisions at √s=13 TeV with the ATLAS detector
+SO PHYSICS LETTERS B
+AB The production of exclusive gamma gamma -> mu(+)mu(-) events in proton-proton collisions at a centre-of-mass energy of 13 TeV is measured with the ATLAS detector at the LHC, using data corresponding to an integrated luminosity of 3.2 fb(-1). The measurement is performed for a dimuon invariant mass of 12 GeV < m(mu+mu-) < 70 GeV. The integrated cross-section is determined within a fiducial acceptance region of the ATLAS detector and differential cross-sections are measured as a function of the dimuon invariant mass. The results are compared to theoretical predictions both with and without corrections for absorptive effects.
+SN 0370-2693
+EI 1873-2445
+PD FEB 10
+PY 2018
+VL 777
+BP 303
+EP 323
+DI 10.1016/j.physletb.2017.12.043
+UT WOS:000423930700041
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI ZZ -> l(+)l(-)l '(+)l '(-) cross-section measurements and search for
+   anomalous triple gauge couplings in 13 TeV pp collisions with the ATLAS
+   detector
+SO PHYSICAL REVIEW D
+AB Measurements of ZZ production in the l(+)l(-)l'(+)l'(-) channel in proton-proton collisions at 13 TeV center-of-mass energy at the Large Hadron Collider are presented. The data correspond to 36.1 fb(-1) of collisions collected by the ATLAS experiment in 2015 and 2016. Here l and l ' stand for electrons or muons. Integrated and differential ZZ -> l(+)l(-)l'(+)l'(-) cross sections with Z -> l(+)l(-) candidate masses in the range of 66 GeV to 116 GeV are measured in a fiducial phase space corresponding to the detector acceptance and corrected for detector effects. The differential cross sections are presented in bins of twenty observables, including several that describe the jet activity. The integrated cross section is also extrapolated to a total phase space and to all standard model decays of Z bosons with mass between 66 GeV and 116 GeV, resulting in a value of 17.3 +/- 0.9 [+/- 0.6(start) +/- 0.5 (syst) +/- 0.6 (lumi)] pb. The measurements are found to be in good agreement with the standard model. A search for neutral triple gauge couplings is performed using the transverse momentum distribution of the leading Z boson candidate. No evidence for such couplings is found and exclusion limits are set on their parameters.
+SN 1550-7998
+EI 1550-2368
+PD FEB 7
+PY 2018
+VL 97
+IS 3
+AR 032005
+DI 10.1103/PhysRevD.97.032005
+UT WOS:000424379700001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the W-boson mass in pp collisions at √s=7 TeV with
+   the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB A measurement of the mass of the W boson is presented based on proton-proton collision data recorded in 2011 at a centre-of-mass energy of 7 TeV with the ATLAS detector at the LHC, and corresponding to 4.6 fb(-1) of integrated luminosity. The selected data sample consists of 7.8 x 10(6) candidates in the W -> mu nu channel and 5.9 x 10(6) candidates in the W -> e nu channel. The W-boson mass is obtained from template fits to the reconstructed distributions of the charged lepton transverse momentum and of the W boson transverse mass in the electron and muon decay channels, yielding
+   m(W) = 80370 +/- 7 (stat.) +/- 11(exp. syst.)
+   +/- 14 (mod. syst.) MeV
+   = 80370 +/- 19 MeV,
+   where the first uncertainty is statistical, the second corresponds to the experimental systematic uncertainty, and the third to the physics-modelling systematic uncertainty. A measurement of the mass difference between the W+ and W- bosons yields m(W+) - m(W-) = -29 +/- 28 MeV.
+SN 1434-6044
+EI 1434-6052
+PD FEB 6
+PY 2018
+VL 78
+IS 2
+AR 110
+DI 10.1140/epjc/s10052-017-5475-4
+UT WOS:000424385500005
+PM 31265006
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for B - L R-parity-violating top squarks in √s=13 TeV pp
+   collisions with the ATLAS experiment
+SO PHYSICAL REVIEW D
+AB A search is presented for the direct pair production of the stop, the supersymmetric partner of the top quark, that decays through an R-parity-violating coupling to a final state with two leptons and two jets, at least one of which is identified as a b-jet. The data set corresponds to an integrated luminosity of 36.1 fb(-1) of proton-proton collisions at a center-of-mass energy of √s=13 TeV, collected in 2015 and 2016 by the ATLAS detector at the LHC. No significant excess is observed over the Standard Model background, and exclusion limits are set on stop pair production at a 95% confidence level. Lower limits on the stop mass are set between 600 GeV and 1.5 TeV for branching ratios above 10% for decays to an electron or muon and a b-quark.
+SN 1550-7998
+EI 1550-2368
+PD FEB 6
+PY 2018
+VL 97
+IS 3
+AR 032003
+DI 10.1103/PhysRevD.97.032003
+UT WOS:000424190800001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for new phenomena in high-mass final states with a photon and a
+   jet from pp collisions at √s=13 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB A search is performed for new phenomena in events having a photon with high transverse momentum and a jet collected in 36.7 fb(-1) of proton-proton collisions at a centre-of-mass energy of √s=13 TeV recorded with the ATLAS detector at the Large Hadron Collider. The invariant mass distribution of the leading photon and jet is examined to look for the resonant production of new particles or the presence of new high-mass states beyond the Standard Model. No significant deviation from the background-only hypothesis is observed and cross-section limits for generic Gaussian-shaped resonances are extracted. Excited quarks hypothesized in quark compositeness models and high-mass states predicted in quantum black hole models with extra dimensions are also examined in the analysis. The observed data exclude, at 95% confidence level, the mass range below 5.3 TeV for excited quarks and 7.1 TeV (4.4 TeV) for quantum black holes in the Arkani-Hamed-Dimopoulos-Dvali (Randall-Sundrum) model with six (one) extra dimensions.
+SN 1434-6044
+EI 1434-6052
+PD FEB 3
+PY 2018
+VL 78
+IS 2
+AR 102
+DI 10.1140/epjc/s10052-018-5553-2
+UT WOS:000424102800003
+PM 31265009
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for dark matter and other new phenomena in events with an
+   energetic jet and large missing transverse momentum using the ATLAS
+   detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB Results of a search for new phenomena in final states with an energetic jet and large missing transverse momentum are reported. The search uses proton-proton collision data corresponding to an integrated luminosity of 36.1 fb(-1) at a centre-of-mass energy of 13 TeV collected in 2015 and 2016 with the ATLAS detector at the Large Hadron Collider. Events are required to have at least one jet with a transverse momentum above 250 GeV and no leptons (e or mu). Several signal regions are considered with increasing requirements on the missing transverse momentum above 250 GeV. Good agreement is observed between the number of events in data and Standard Model predictions. The results are translated into exclusion limits in models with pair-produced weakly interacting dark-matter candidates, large extra spatial dimensions, and supersymmetric particles in several compressed scenarios.
+SN 1029-8479
+PD JAN 25
+PY 2018
+IS 1
+AR 126
+DI 10.1007/JHEP01(2018)126
+UT WOS:000423443500001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the cross-section for producing a W boson in association
+   with a single top quark in pp collisions at √s=13 TeV with ATLS
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB The inclusive cross-section for the associated production of a W boson and top quark is measured using data from proton-proton collisions at √s=13 TeV. The dataset corresponds to an integrated luminosity of 3.2 fb(-1), and was collected in 2015 by the ATLAS detector at the Large Hadron Collider at CERN. Events are selected requiring two opposite sign isolated leptons and at least one jet; they are separated into signal and control regions based on their jet multiplicity and the number of jets that are identified as containing b hadrons. The Wt signal is then separated from the t ($) over bar background using boosted decision tree discriminants in two regions. The cross-section is extracted by fitting templates to the data distributions, and is measured to be sigma(Wt) = 94 +/- 10 (stat:)(-22)(+28) (syst:) +/- 2 (lumi:) pb. The measured value is in good agreement with the SM prediction of sigma(theory) = 71: 7 +/- 1: 8 (scale) +/- 3: 4 (PDF) pb [1].
+SN 1029-8479
+PD JAN 15
+PY 2018
+IS 1
+AR 063
+DI 10.1007/JHEP01(2018)063
+UT WOS:000423212200001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for heavy resonances decaying into WW in the e nu mu nu final
+   state in pp collisions at √s=13 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB A search for neutral heavy resonances is performed in the WW -> e nu mu nu decay channel using pp collision data corresponding to an integrated luminosity of 36.1 fb(-1), collected at a centre-of-mass energy of 13 TeV by the ATLAS detector at the Large Hadron Collider. No evidence of such heavy resonances is found. In the search for production via the quark-antiquark annihilation or gluon-gluon fusion process, upper limits on sigma(X) x B(X -> WW) as a function of the resonance mass are obtained in the mass range between 200 GeV and up to 5 TeV for various benchmark models: a Higgs-like scalar in different width scenarios, a two-Higgs-doublet model, a heavy vector triplet model, and a warped extra dimensions model. In the vector-boson fusion process, constraints are also obtained on these resonances, as well as on a Higgs boson in the Georgi-Machacek model and a heavy tensor particle coupling only to gauge bosons.
+SN 1434-6044
+EI 1434-6052
+PD JAN 13
+PY 2018
+VL 78
+IS 1
+AR 24
+DI 10.1140/epjc/s10052-017-5491-4
+UT WOS:000422662200005
+PM 31265008
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for additional heavy neutral Higgs and gauge bosons in the ditau
+   final state produced in 36 fb(-1) of pp collisions at √s=13 TeV with
+   the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+AB A search for heavy neutral Higgs bosons and Z' bosons is performed using a data sample corresponding to an integrated luminosity of 36.1 fb(-1) from proton-proton collisions at √s=13 TeV recorded by the ATLAS detector at the LHC during 2015 and 2016. The heavy resonance is assumed to decay to tau(+)tau(-) with at least one tau lepton decaying to final states with hadrons and a neutrino. The search is performed in the mass range of 0.2-2.25 TeV for Higgs bosons and 0.2-4.0 TeV for Z' bosons. The data are in good agreement with the background predicted by the Standard Model. The results are interpreted in benchmark scenarios. In the context of the hMSSM scenario, the data exclude tan beta > 1.0 for m(A) = 0.25 TeV and tan beta > 42 for m(A) = 1.5 TeV at the 95% confidence level. For the Sequential Standard Model, Z'(SSM) with m(Z') < 2.42 TeV is excluded at 95% confidence level, while Z'(NU) with m(Z') < 2.25 TeV is excluded for the non-universal G(221) model that exhibits enhanced couplings to third-generation fermions.
+SN 1029-8479
+PD JAN 12
+PY 2018
+IS 1
+AR 055
+DI 10.1007/JHEP01(2018)055
+UT WOS:000422669700003
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for dark matter produced in association with bottom or top quarks
+   in √s=13 TeV pp collisions with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB A search for weakly interacting massive dark matter particles produced in association with bottom or top quarks is presented. Final states containing third-generation quarks and missing transverse momentum are considered. The analysis uses 36.1 fb(-1) of proton proton collision data recorded by the ATLAS experiment at √s=13 TeV in 2015 and 2016. No significant excess of events above the estimated backgrounds is observed. The results are interpreted in the framework of simplified models of spin-0 dark-matter mediators. For colour-neutral spin-0 mediators produced in association with top quarks and decaying into a pair of dark matter particles, mediator masses below 50 GeV are excluded assuming a dark-matter candidate mass of 1 GeV and unitary couplings. For scalar and pseudoscalar mediators produced in association with bottom quarks, the search sets limits on the production cross-section of 300 times the predicted rate for mediators with masses between 10 and 50 GeV and assuming a dark-matter mass of 1 GeV and unitary coupling. Constraints on colour-charged scalar simplified models are also presented. Assuming a dark-matter particle mass of 35 GeV, mediator particles with mass below 1.1 TeV are excluded for couplings yielding a dark-matter relic density consistent with measurements.
+SN 1434-6044
+EI 1434-6052
+PD JAN 11
+PY 2018
+VL 78
+IS 1
+AR 18
+DI 10.1140/epjc/s10052-017-5486-1
+UT WOS:000422660200005
+PM 31265005
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of differential cross sections of isolated-photon plus
+   heavy-flavour jet production in pp collisions at √s=8 TeV using the
+   ATLAS detector
+SO PHYSICS LETTERS B
+AB This Letter presents the measurement of differential cross sections of isolated prompt photons produced in association with a b-jet or a c-jet. These final states provide sensitivity to the heavy-flavour content of the proton and aspects related to the modelling of heavy-flavour quarks in perturbative QCD. The measurement uses proton-proton collision data at a centre-of-mass energy of 8 TeV recorded by the ATLAS detector at the LHC in 2012 corresponding to an integrated luminosity of up to 20.2 fb(-1). The differential cross sections are measured for each jet flavour with respect to the transverse energy of the leading photon in two photon pseudorapidity regions: vertical bar eta(gamma)vertical bar < 1.37 and 1.56 < vertical bar eta(gamma)vertical bar < 2.37. The measurement covers photon transverse energies 25 < E-T(gamma) < 400 GeV and 25 < E-T(gamma) < 350 GeV respectively for the two vertical bar eta(gamma)vertical bar regions. For each jet flavour, the ratio of the cross sections in the two vertical bar eta(gamma)vertical bar regions is also measured. The measurement is corrected for detector effects and compared to leading-order and next-to-leading-order perturbative QCD calculations, based on various treatments and assumptions about the heavy-flavour content of the proton. Overall, the predictions agree well with the measurement, but some deviations are observed at high photon transverse energies. The total uncertainty in the measurement ranges between 13% and 66%, while the central gamma+b measurement exhibits the smallest uncertainty, ranging from 13% to 27%, which is comparable to the precision of the theoretical predictions.
+SN 0370-2693
+EI 1873-2445
+PD JAN 10
+PY 2018
+VL 776
+BP 295
+EP 317
+DI 10.1016/j.physletb.2017.11.054
+UT WOS:000419641100043
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for an invisibly decaying Higgs boson or dark matter candidates
+   produced in association with a Z boson in pp collisions at √s=13 TeV
+   with the ATLAS detector
+SO PHYSICS LETTERS B
+AB A search for an invisibly decaying Higgs boson or dark matter candidates produced in association with a leptonically decaying Z boson in proton-proton collisions at √s=13 TeV is presented. This search uses 36.1 fb(-1) of data collected by the ATLAS experiment at the Large Hadron Collider. No significant deviation from the expectation of the Standard Model backgrounds is observed. Assuming the Standard Model ZH production cross-section, an observed (expected) upper limit of 67% (39%) at the 95% confidence level is set on the branching ratio of invisible decays of the Higgs boson with mass m(H) = 125 GeV. The corresponding limits on the production cross-section of the ZH process with the invisible Higgs boson decays are also presented. Furthermore, exclusion limits on the dark matter candidate and mediator masses are reported in the framework of simplified dark matter models.
+SN 0370-2693
+EI 1873-2445
+PD JAN 10
+PY 2018
+VL 776
+BP 318
+EP 337
+DI 10.1016/j.physletb.2017.11.049
+UT WOS:000419641100044
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Femtoscopy with identified charged pions in proton-lead collisions at
+   √s(NN)=5.02 TeV with ATLAS
+SO PHYSICAL REVIEW C
+AB Bose-Einstein correlations between identified charged pions are measured for p+Pb collisions at √s(NN)=5.02 TeV using data recorded by the ATLAS detector at the CERN Large Hadron Collider corresponding to a total integrated luminosity of 28 nb(-1). Pions are identified using ionization energy loss measured in the pixel detector. Two-particle correlation functions and the extracted source radii are presented as a function of collision centrality as well as the average transverse momentum (k(T)) and rapidity (y*(pi pi)) of the pair. Pairs are selected with a rapidity -2 < y*(pi pi) < 1 and with an average transverse momentum 0.1 < k(T) < 0.8 GeV. The effect of jet fragmentation on the two-particle correlation function is studied, and a method using opposite-charge pair data to constrain its contributions to the measured correlations is described. The measured source sizes are substantially larger in more central collisions and are observed to decrease with increasing pair k(T). A correlation of the radii with the local charged-particle density is demonstrated. The scaling of the extracted radii with the mean number of participating nucleons is also used to compare a selection of initial-geometry models. The cross term R-ol is measured as a function of rapidity, and a nonzero value is observed with 5.1 sigma combined significance for -1 < y*pi pi < 1 in the most central events.
+SN 2469-9985
+EI 2469-9993
+PD DEC 28
+PY 2017
+VL 96
+IS 6
+AR 064908
+DI 10.1103/PhysRevC.96.064908
+UT WOS:000418917300004
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for squarks and gluinos in events with an isolated lepton, jets,
+   and missing transverse momentum at √s=13 TeV with the ATLAS detector
+SO PHYSICAL REVIEW D
+AB The results of a search for squarks and gluinos in final states with an isolated electron or muon, multiple jets and large missing transverse momentum using proton-proton collision data at a center-of-mass energy of √s=13 TeV are presented. The data set used was recorded during 2015 and 2016 by the ATLAS experiment at the Large Hadron Collider and corresponds to an integrated luminosity of 36.1 fb(-1). No significant excess beyond the expected background is found. Exclusion limits at 95% confidence level are set in a number of supersymmetric scenarios, reaching masses up to 2.1 TeV for gluino pair production and up to 1.25 TeV for squark pair production.
+SN 2470-0010
+EI 2470-0029
+PD DEC 26
+PY 2017
+VL 96
+IS 11
+AR 112010
+DI 10.1103/PhysRevD.96.112010
+UT WOS:000418657500002
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for direct top squark pair production in final states with two
+   leptons in √s=13 TeV pp collisions with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+AB The results of a search for direct pair production of top squarks in events with two opposite-charge leptons (electrons or muons) are reported, using 36.1 fb(-1) of integrated luminosity from proton-proton collisions at √s=13 TeV collected by the ATLAS detector at the Large Hadron Collider. To cover a range of mass differences between the top squark (t) over tilde and lighter supersymmetric particles, four possible decay modes of the top squark are targeted with dedicated selections: the decay (t) over tilde -> b (chi) over tilde (+/-)(1) into a b-quark and the lightest chargino with (chi) over tilde (+/-)(1) W (chi) over tilde (0)(1),the decay (t) over tilde -> t (chi) over tilde (0)(1) into an on-shell top quark and the lightest neutralino, the three-body decay (t) over tilde -> bW (chi) over tilde (0)(1) and the four-body decay (t) over tilde -> bl nu(chi) over tilde (0)(1). No significant excess of events is observed above the Standard Model background for any selection, and limits on top squarks are set as a function of the (t) over tilde and (chi) over tilde (0)(1) masses. The results exclude at 95% confidence level (t) over tilde masses up to about 720 GeV, extending the exclusion region of supersymmetric parameter space covered by previous searches.
+SN 1434-6044
+EI 1434-6052
+PD DEC 21
+PY 2017
+VL 77
+IS 12
+AR 898
+DI 10.1140/epjc/s10052-017-5445-x
+UT WOS:000418591100004
+PM 31985737
+ER
