@@ -52,15 +52,18 @@ def main():
                 stop_1 = lines.index('AU Aad, G\n')
             except:
                 stop_1 = lines.index('AU Aaboud, M\n')
-            stop_2 = lines.index('CA ATLAS Collaboration\n')
-
+            try:
+                stop_2 = lines.index('CA ATLAS Collaboration\n')
+            except:
+                stop_2 = lines.index('CA ATLAS collaboration\n')
+                
             print(' author list #'+str(stop_1)+' '+str(stop_2))
             
             # remove the full author list except the first name
             lines = lines[:stop_1+1]+lines[stop_2:]
 
             # substitute the first name with mine
-            lines[stop_1] = 'AU COCCARO A; others\n'
+            lines[stop_1] = 'AU COCCARO A;\n others\n'
             
             # remove very long strings
             #lines = ([s for s in lines if not s.startswith('RI ')])
