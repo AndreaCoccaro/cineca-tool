@@ -1,0 +1,1049 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for bottom-squark pair production in pp collision events at
+   √s=13 TeV with hadronically decaying tau-leptons, b-jets, and missing
+   transverse momentum using the ATLAS detector
+SO PHYSICAL REVIEW D
+SN 2470-0010
+EI 2470-0029
+PD AUG 31
+PY 2021
+VL 104
+IS 3
+AR 032014
+DI 10.1103/PhysRevD.104.032014
+UT WOS:000692081200002
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Exclusive dimuon production in ultraperipheral Pb plus Pb collisions at
+   √s-NN=5.02 TeV with ATLAS
+SO PHYSICAL REVIEW C
+SN 2469-9985
+EI 2469-9993
+PD AUG 19
+PY 2021
+VL 104
+IS 2
+AR 024906
+DI 10.1103/PhysRevC.104.024906
+UT WOS:000686912100002
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Evidence for Higgs boson decays to a low-mass dilepton system and a
+   photon in pp collisions at √s=13 TeV with the ATLAS detector
+SO PHYSICS LETTERS B
+SN 0370-2693
+EI 1873-2445
+PD AUG 10
+PY 2021
+VL 819
+AR 136412
+DI 10.1016/j.physletb.2021.136412
+UT WOS:000679259200033
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Jet energy scale and resolution measured in proton-proton collisions at
+   √s=13 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD AUG
+PY 2021
+VL 81
+IS 8
+AR 689
+DI 10.1140/epjc/s10052-021-09402-3
+UT WOS:000692318100005
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurements of the inclusive and differential production cross sections
+   of a top-quark-antiquark pair in association with a Z boson at √s=13
+   TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD AUG
+PY 2021
+VL 81
+IS 8
+AR 737
+DI 10.1140/epjc/s10052-021-09439-4
+UT WOS:000686674200001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of single top-quark production in association with a W boson
+   in the single-lepton channel at √s=8 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD AUG
+PY 2021
+VL 81
+IS 8
+AR 720
+DI 10.1140/epjc/s10052-021-09371-7
+UT WOS:000683750400006
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS collaboration
+TI Determination of the parton distribution functions of the proton from
+   ATLAS measurements of differential W-+/- and Z boson production in
+   association with jets
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JUL 29
+PY 2021
+IS 7
+AR 223
+DI 10.1007/JHEP07(2021)223
+UT WOS:000680916500001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for Displaced Leptons in √s=13 TeV pp Collisions with the
+   ATLAS Detector
+SO PHYSICAL REVIEW LETTERS
+SN 0031-9007
+EI 1079-7114
+PD JUL 27
+PY 2021
+VL 127
+IS 5
+AR 051802
+DI 10.1103/PhysRevLett.127.051802
+UT WOS:000679181800005
+PM 34397238
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the relative B-c(+/-)/B-+/- production cross section with
+   the ATLAS detector at √s=8 TeV
+SO PHYSICAL REVIEW D
+SN 2470-0010
+EI 2470-0029
+PD JUL 26
+PY 2021
+VL 104
+IS 1
+AR 012010
+DI 10.1103/PhysRevD.104.012010
+UT WOS:000679144000001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI A search for the decays of stopped long-lived particles at √s=13 TeV
+   with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JUL 23
+PY 2021
+IS 7
+AR 173
+DI 10.1007/JHEP07(2021)173
+UT WOS:000679718000001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for supersymmetry in events with four or more charged leptons in
+   139/fb of √s=13 TeV pp collisions with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JUL 22
+PY 2021
+IS 7
+AR 167
+DI 10.1007/JHEP07(2021)167
+UT WOS:000678588900001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Two-particle azimuthal correlations in photonuclear ultraperipheral Pb
+   plus Pb collisions at 5.02 TeV with ATLAS
+SO PHYSICAL REVIEW C
+SN 2469-9985
+EI 2469-9993
+PD JUL 12
+PY 2021
+VL 104
+IS 1
+AR 014903
+DI 10.1103/PhysRevC.104.014903
+UT WOS:000672773000006
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Test of the universality of tau and mu lepton couplings in W-boson
+   decays with the ATLAS detector
+SO NATURE PHYSICS
+SN 1745-2473
+EI 1745-2481
+PD JUL
+PY 2021
+VL 17
+IS 7
+BP 813
+EP +
+DI 10.1038/s41567-021-01236-w
+EA JUL 2021
+UT WOS:000669764700003
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurements of differential cross-sections in four-lepton events in 13
+   TeV proton-proton collisions with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JUL 2
+PY 2021
+IS 7
+AR 005
+DI 10.1007/JHEP07(2021)005
+UT WOS:000671563800001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for squarks and gluinos in final states with one isolated lepton,
+   jets, and missing transverse momentum at √s=13 with the ATLAS
+   detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD JUL
+PY 2021
+VL 81
+IS 7
+AR 600
+DI 10.1140/epjc/s10052-021-09344-w
+UT WOS:000691564500001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Muon reconstruction and identification efficiency in ATLAS using the
+   full Run 2 pp collision data set at √s=13 TeV
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD JUL
+PY 2021
+VL 81
+IS 7
+AR 578
+DI 10.1140/epjc/s10052-021-09233-2
+UT WOS:000680861900001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Performance of the ATLAS RPC detector and Level-1 muon barrel trigger at
+   √s=13 TeV
+SO JOURNAL OF INSTRUMENTATION
+SN 1748-0221
+PD JUL
+PY 2021
+VL 16
+IS 7
+AR P07029
+DI 10.1088/1748-0221/16/07/P07029
+UT WOS:000694909000009
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for charged-lepton-flavour violation in Z-boson decays with the
+   ATLAS detector
+SO NATURE PHYSICS
+SN 1745-2473
+EI 1745-2481
+PD JUL
+PY 2021
+VL 17
+IS 7
+BP 819
+EP +
+DI 10.1038/s41567-021-01225-z
+EA JUL 2021
+UT WOS:000668820400003
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for pair production of third-generation scalar leptoquarks
+   decaying into a top quark and a tau-lepton in pp collisions at √s=13
+   TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JUN 30
+PY 2021
+IS 6
+AR 179
+DI 10.1007/JHEP06(2021)179
+UT WOS:000671313600001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for doubly and singly charged Higgs bosons decaying into vector
+   bosons in multi-lepton final states with the ATLAS detector using
+   proton-proton collisions at √s=13 TeV
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JUN 24
+PY 2021
+IS 6
+AR 146
+DI 10.1007/JHEP06(2021)146
+UT WOS:000669309000001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for charged Higgs bosons decaying into a top quark and a bottom
+   quark at √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JUN 24
+PY 2021
+IS 6
+AR 145
+DI 10.1007/JHEP06(2021)145
+UT WOS:000668168900001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for new phenomena in events with an energetic jet and missing
+   transverse momentum in pp collisions at √s=13 TeV with the ATLAS
+   detector
+SO PHYSICAL REVIEW D
+SN 2470-0010
+EI 2470-0029
+PD JUN 10
+PY 2021
+VL 103
+IS 11
+AR 112006
+DI 10.1103/PhysRevD.103.112006
+UT WOS:000661786800001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for trilepton resonances from chargino and neutralino pair
+   production in √s=13 TeV pp collisions with the ATLAS detector
+SO PHYSICAL REVIEW D
+SN 2470-0010
+EI 2470-0029
+PD JUN 7
+PY 2021
+VL 103
+IS 11
+AR 112003
+DI 10.1103/PhysRevD.103.112003
+UT WOS:000661778100001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurements of Higgs bosons decaying to bottom quarks from vvector
+   boson fusion production with the ATLAS experiment at √s=13 TeV
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD JUN
+PY 2021
+VL 81
+IS 6
+AR 537
+DI 10.1140/epjc/s10052-021-09192-8
+UT WOS:000680459800003
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurements of W+W-+ >= 1 jet production cross-sections in pp
+   collisions at √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JUN 1
+PY 2021
+IS 6
+AR 3
+DI 10.1007/JHEP06(2021)003
+UT WOS:000683416500001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for the HH -> b(b)over-barb(b)over-bar process via vector-boson
+   fusion production using proton-proton collisions at √s=13 TeV with
+   the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD MAY 21
+PY 2021
+IS 5
+AR 207
+DI 10.1007/JHEP05(2021)207
+UT WOS:000656457100001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for new phenomena in final states with b-jets and missing
+   transverse momentum in √s=13 TeV pp collisions with the ATLAS
+   detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD MAY 12
+PY 2021
+IS 5
+AR 093
+DI 10.1007/JHEP05(2021)093
+UT WOS:000652225500001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Observation of photon-induced W+ W- production in pp collisions at √s=13 TeV
+   using the ATLAS detector
+SO PHYSICS LETTERS B
+SN 0370-2693
+EI 1873-2445
+PD MAY 10
+PY 2021
+VL 816
+AR 136190
+DI 10.1016/j.physletb.2021.136190
+UT WOS:000647421500033
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the associated production of a Higgs boson decaying into
+   b-quarks with a vector boson at high transverse momentum in pp
+   collisions at √s=13 TeV with the ATLAS detector
+SO PHYSICS LETTERS B
+SN 0370-2693
+EI 1873-2445
+PD MAY 10
+PY 2021
+VL 816
+AR 136204
+DI 10.1016/j.physletb.2021.136204
+UT WOS:000647421500036
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for a heavy Higgs boson decaying into a Z boson and another heavy
+   Higgs boson in the llbb and llWW final states in pp collisions at
+   √s=13 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD MAY
+PY 2021
+VL 81
+IS 5
+AR 396
+DI 10.1140/epjc/s10052-021-09117-5
+UT WOS:000662180600001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for new phenomena with top quark pairs in final states with one
+   lepton, jets, and missing transverse momentum in pp collisions at
+   √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD APR 19
+PY 2021
+IS 4
+AR 174
+DI 10.1007/JHEP04(2021)174
+UT WOS:000645244200001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for new phenomena in events with two opposite-charge leptons,
+   jets and missing transverse momentum in pp collisions at √s=13 TeV
+   with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD APR 16
+PY 2021
+IS 4
+AR 165
+DI 10.1007/JHEP04(2021)165
+UT WOS:000642153100001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for new non-resonant phenomena in high-mass dilepton final states
+   with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD APR 15
+PY 2021
+IS 4
+AR 142
+DI 10.1007/JHEP04(2021)142
+UT WOS:000642908800001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Optimisation of large-radius jet reconstruction for the ATLAS detector
+   in 13 TeV proton-proton collisions
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD APR
+PY 2021
+VL 81
+IS 4
+AR 334
+DI 10.1140/epjc/s10052-021-09054-3
+UT WOS:000641660400005
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for heavy resonances decaying into a pair of Z bosons in
+   the l+l-l+l- and l+l-nu nu final states using 139/fb of proton-proton
+   collisions at √s=13 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD APR
+PY 2021
+VL 81
+IS 4
+AR 332
+DI 10.1140/epjc/s10052-021-09013-y
+UT WOS:000641660400003
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the CP-violating phase phi(s) in B-s(0) -> J/psi phi
+   decays in ATLAS at 13 TeV
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD APR
+PY 2021
+VL 81
+IS 4
+AR 342
+DI 10.1140/epjc/s10052-021-09011-0
+UT WOS:000643913400004
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for pair production of scalar leptoquarks decaying into first- or
+   second-generation leptons and top quarks in proton-proton collisions at
+   √s=13 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD APR
+PY 2021
+VL 81
+IS 4
+AR 313
+DI 10.1140/epjc/s10052-021-09009-8
+UT WOS:000639810800003
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for Higgs boson production in association with a high-energy
+   photon via vector-boson fusion with decay into bottom quark pairs at
+   √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD MAR 29
+PY 2021
+IS 3
+AR 268
+DI 10.1007/JHEP03(2021)268
+UT WOS:000638157200001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for Dark Matter Produced in Association with a Dark Higgs Boson
+   Decaying into (WW -/+)-W-+/- or ZZ in Fully Hadronic Final States from
+   √s=13 TeV pp Collisions Recorded with the ATLAS Detector
+SO PHYSICAL REVIEW LETTERS
+SN 0031-9007
+EI 1079-7114
+PD MAR 26
+PY 2021
+VL 126
+IS 12
+AR 121802
+DI 10.1103/PhysRevLett.126.121802
+UT WOS:000646119900006
+PM 33834820
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of light-by-light scattering and search for axion-like
+   particles with 2.2/nb of Pb+Pb data with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD MAR 25
+PY 2021
+IS 3
+AR 243
+DI 10.1007/JHEP03(2021)243
+UT WOS:000634886800001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Longitudinal Flow Decorrelations in Xe plus Xe Collisions at √s-NN=5.44 TeV
+   with the ATLAS Detector
+SO PHYSICAL REVIEW LETTERS
+SN 0031-9007
+EI 1079-7114
+PD MAR 24
+PY 2021
+VL 126
+IS 12
+AR 122301
+DI 10.1103/PhysRevLett.126.122301
+UT WOS:000651646900004
+PM 33834811
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for type-III seesaw heavy leptons in dilepton final states in pp
+   collisions at √s=13TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD MAR 5
+PY 2021
+VL 81
+IS 3
+AR 218
+DI 10.1140/epjc/s10052-021-08929-9
+UT WOS:000626601800003
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for phenomena beyond the Standard Model in events with large
+   b-jet multiplicity using the ATLAS detector at the LHC
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD MAR
+PY 2021
+VL 81
+IS 3
+AR 249
+DI 10.1140/epjc/s10052-021-08970-8
+UT WOS:000631882200002
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for dark matter in association with an energetic photon in pp
+   collisions at √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD FEB 25
+PY 2021
+IS 2
+AR 226
+DI 10.1007/JHEP02(2021)226
+UT WOS:000625548600001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurements of W H and Z H production in the H -> bb decay
+   channel in pp collisions at 13 TeV with the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD FEB 22
+PY 2021
+VL 81
+IS 2
+AR 178
+DI 10.1140/epjc/s10052-020-08677-2
+UT WOS:000623088700004
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Medium-Induced Modification of Z-Tagged Charged Particle Yields in Pb
+   plus Pb Collisions at 5.02 TeV with the ATLAS Detector
+SO PHYSICAL REVIEW LETTERS
+SN 0031-9007
+EI 1079-7114
+PD FEB 19
+PY 2021
+VL 126
+IS 7
+AR 072301
+DI 10.1103/PhysRevLett.126.072301
+UT WOS:000620021300012
+PM 33666476
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Differential cross-section measurements for the electroweak production
+   of dijets in association with a Z boson in proton-proton collisions at
+   ATLAS
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD FEB 17
+PY 2021
+VL 81
+IS 2
+AR 163
+DI 10.1140/epjc/s10052-020-08734-w
+UT WOS:000620538400001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for squarks and gluinos in final states with jets and missing
+   transverse momentum using 139/fb of √s=13 TeV pp collision data
+   with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD FEB 17
+PY 2021
+IS 2
+AR 143
+DI 10.1007/JHEP02(2021)143
+UT WOS:000621845200001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of hadronic event shapes in high-p(T) multijet final states
+   at √s=13 TeV with the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JAN 28
+PY 2021
+IS 1
+AR 188
+DI 10.1007/JHEP01(2021)188
+UT WOS:000613473000001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for the HH -> bbbb process via vector-boson
+   fusion production using proton-proton collisions at √s=13 TeV with
+   the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JAN 22
+PY 2021
+IS 1
+AR 145
+DI 10.1007/JHEP01(2021)145
+UT WOS:000613329500001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Higgs boson production cross-section measurements vand their EFT
+   interpretation in the 4l decay channel at √s=13 TeV with the ATLAS
+   detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD JAN 15
+PY 2021
+VL 81
+IS 1
+AR 29
+DI 10.1140/epjc/s10052-020-08644-x
+UT WOS:000610450200004
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for phenomena beyond the Standard Model in events with large
+   b-jet multiplicity using the ATLAS detector at the LHC
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD JAN 11
+PY 2021
+VL 81
+IS 1
+AR 11
+DI 10.1140/epjc/s10052-020-08730-0
+UT WOS:000610446600001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurement of the jet mass in high transverse momentum Z(->
+   bb gamma production at √s=13 TeV using the ATLAS detector
+SO PHYSICS LETTERS B
+SN 0370-2693
+EI 1873-2445
+PD JAN 10
+PY 2021
+VL 812
+AR 135991
+DI 10.1016/j.physletb.2020.135991
+UT WOS:000608167600013
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI A search for the dimuon decay of the Standard Model Higgs boson with the
+   ATLAS detector
+SO PHYSICS LETTERS B
+SN 0370-2693
+EI 1873-2445
+PD JAN 10
+PY 2021
+VL 812
+AR 135980
+DI 10.1016/j.physletb.2020.135980
+UT WOS:000608167600020
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Measurements of top-quark pair single- and double-differential
+   cross-sections in the all-hadronic channel in pp collisions at √s=13
+   TeV using the ATLAS detector
+SO JOURNAL OF HIGH ENERGY PHYSICS
+SN 1029-8479
+PD JAN 8
+PY 2021
+IS 1
+AR 033
+DI 10.1007/JHEP01(2021)033
+UT WOS:000607134800001
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for Heavy Resonances Decaying into a Photon and a Hadronically
+   Decaying Higgs Boson in pp Collisions at √s=13 TeV with the ATLAS
+   Detector
+SO PHYSICAL REVIEW LETTERS
+SN 0031-9007
+EI 1079-7114
+PD DEC 18
+PY 2020
+VL 125
+IS 25
+AR 251802
+DI 10.1103/PhysRevLett.125.251802
+UT WOS:000600286000006
+PM 33416363
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Search for Higgs boson decays into two new low-mass spin-0 particles in
+   the 4b channel with the ATLAS detector using pp collisions at √s=13 TeV
+SO PHYSICAL REVIEW D
+SN 2470-0010
+EI 2470-0029
+PD DEC 7
+PY 2020
+VL 102
+IS 11
+AR 112006
+DI 10.1103/PhysRevD.102.112006
+UT WOS:000596369400003
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Determination of jet calibration and energy resolution in proton-proton
+   collisions at √s=8 TeV using the ATLAS detector
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD DEC 1
+PY 2020
+VL 80
+IS 12
+AR 1104
+DI 10.1140/epjc/s10052-020-08477-8
+UT WOS:000598026400006
+ER
+
+PT J
+AU COCCARO A;
+ others
+CA ATLAS Collaboration
+TI Alignment of the ATLAS Inner Detector in Run 2
+SO EUROPEAN PHYSICAL JOURNAL C
+SN 1434-6044
+EI 1434-6052
+PD DEC
+PY 2020
+VL 80
+IS 12
+AR 1194
+DI 10.1140/epjc/s10052-020-08700-6
+UT WOS:000603037700005
+ER
+
