@@ -525,26 +525,6 @@ CA ATLAS Collaboration
 TI Performance of the ATLAS track reconstruction algorithms in dense
    environments in LHC Run 2
 SO EUROPEAN PHYSICAL JOURNAL C
-AB With the increase in energy of the Large Hadron Collider to a centre-of-mass energy of 13 TeV for Run 2, events with dense environments, such as in the cores of high-energy jets, became a focus for new physics searches as well as measurements of the Standard Model. These environments are characterized by charged-particle separations of the order of the tracking detectors sensor granularity. Basic track quantities are compared between 3.2 fb(-1) of data collected by the ATLAS experiment and simulation of proton-proton collisions producing high-transverse-momentum jets at a centre-of-mass energy of 13 TeV. The impact of charged-particle separations and multiplicities on the track reconstruction performance is discussed. The track reconstruction efficiency in the cores of jets with transverse momenta between 200 and 1600 GeV is quantified using a novel, data-driven, method. The method uses the energy loss, dE/dx, to identify pixel clusters originating from two charged particles. Of the charged particles creating these clusters, themeasured fraction that fail to be reconstructed is 0.061 +/- 0.006 (stat.) +/- 0.014 (syst.) and 0.093 +/- 0.017 (stat.) +/- 0.021 (syst.) for jet transverse momenta of 200-400 GeV and 1400-1600 GeV, respectively.
-SN 1434-6044
-EI 1434-6052
-PD OCT 11
-PY 2017
-VL 77
-IS 10
-AR 673
-DI 10.1140/epjc/s10052-017-5225-7
-UT WOS:000429045200001
-PM 29081711
-ER
-
-PT J
-AU COCCARO A;
- others
-CA ATLAS Collaboration
-TI Performance of the ATLAS track reconstruction algorithms in dense
-   environments in LHC Run 2
-SO EUROPEAN PHYSICAL JOURNAL C
 AB With the increase in energy of the Large Hadron Collider to a centre-of-mass energy of 13 TeV for Run 2, events with dense environments, such as in the cores of highenergy jets, became a focus for new physics searches as well as measurements of the Standard Model. These environments are characterized by charged-particle separations of the order of the tracking detectors sensor granularity. Basic track quantities are compared between 3.2 fb(-1) of data collected by the ATLAS experiment and simulation of protonproton collisions producing high-transverse-momentum jets at a centre-of-mass energy of 13 TeV. The impact of chargedparticle separations and multiplicities on the track reconstruction performance is discussed. The track reconstruction efficiency in the cores of jets with transverse momenta between 200 and 1600 GeV is quantified using a novel, datadriven, method. The method uses the energy loss, dE/ dx, to identify pixel clusters originating from two charged particles. Of the charged particles creating these clusters, themeasured fraction that fail to be reconstructed is 0.061 +/- 0.006 (stat.) +/- 0.014 (syst.) and 0.093 +/- 0.017 (stat.) +/- 0.021 (syst.) for jet transverse momenta of 200-400GeV and 1400-1600GeV, respectively.
 SN 1434-6044
 EI 1434-6052
