@@ -16,4 +16,4 @@ This repository contains
 
 Some tips collected while interacting with the cineca portal
    * uploading large files won't work. Slimmed files in the ISI WoS format containing 50 publications works nice. If the full list of authors is also uploaded, the number of publications per file needs to be dramatically shorter, typically 10
-   * publications in PRD are not automatically recognised by cineca, and a manual search by ISSN is needed to fix the issue. Cineca thinks that these publicaions are in journal with ISSN 1550-7998 which is no longer active since 2015, while the correct ISSN is 2470-0029
+   * if publications are not recognised by cineca, a manual serach by ISSN is probably the best solution. Here are the ISSN of some popular journales: CSBS	2510-2044, EPJC 1434-6052, JHEP 1029-8479, JINST 1748-0221, PLB	1873-2445, PRC 2469-9993, PRD 2470-0029, PRL 1079-7114.
